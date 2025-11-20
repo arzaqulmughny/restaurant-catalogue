@@ -1,4 +1,4 @@
-# Simple Notes App
+# Restaurant Catalogue
 
 This is submission for Dicoding course "Menjadi Front-End Web Developer Expert"
 
